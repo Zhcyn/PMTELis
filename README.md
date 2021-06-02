@@ -1,0 +1,2 @@
+# PMTELis
+An application that records the user's funds according to the user's daily consumption. Users record themselves by adding today's daily consumption. The current project is still under development, if you encounter problems during the test, please contact me
